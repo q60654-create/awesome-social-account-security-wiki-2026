@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **2** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **3** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -20,6 +20,7 @@
 |---|---|---|---|---|---|
 | TikTok | 社媒账号/tiktok Cookie 导入 | [中文](docs/zh/tiktok.md) | [English](docs/en/tiktok.md) | [源](https://facai.lol/blog/tiktok) | [速查](https://telegra.ph/社媒账号tiktok-Cookie-导入-速查手册-11-09) |
 | Telegram | 🔐 Telegram 账号防盗教程 & 安全使用及售后说明 | [中文](docs/zh/tg.md) | [English](docs/en/tg.md) | [源](https://facai.lol/blog/tg) | [速查](https://telegra.ph/速查手册-Telegram-账号防盗教程--安全使用及售后说明-11-09) |
+| 通用 | 2FA 忘记密码、恢复邮箱失效、没开新设备审批：三条排查路径怎么走 | [中文](docs/zh/2fa-recovery-email-device-approval-troubleshooting.md) | [English](docs/en/2fa-recovery-email-device-approval-troubleshooting.md) | [源](https://facai.lol/blog/2fa-recovery-email-device-approval-troubleshooting) | [速查](https://telegra.ph/2FA-忘记密码恢复邮箱失效没开新设备审批三条排查路径怎么走-速查手册-11-09) |
 
 ## 分类导航 / Browse by platform
 
@@ -30,6 +31,10 @@
 ### TikTok（1）
 
 - [社媒账号/tiktok Cookie 导入](docs/zh/tiktok.md) · [Cookie Method for Accessing a TikTok Account](docs/en/tiktok.md)
+
+### 通用（1）
+
+- [2FA 忘记密码、恢复邮箱失效、没开新设备审批：三条排查路径怎么走](docs/zh/2fa-recovery-email-device-approval-troubleshooting.md) · [2FA Recovery: Password, Email, or Device Approval?](docs/en/2fa-recovery-email-device-approval-troubleshooting.md)
 
 ## 使用许可 / License
 
