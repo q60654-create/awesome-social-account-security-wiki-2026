@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://q60654-create.github.io/awesome-social-account-security-wiki-2026/sitemap.xml
