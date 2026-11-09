@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **4** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **5** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -22,6 +22,7 @@
 | Telegram | 🔐 Telegram 账号防盗教程 & 安全使用及售后说明 | [中文](docs/zh/tg.md) | [English](docs/en/tg.md) | [源](https://facai.lol/blog/tg) | [速查](https://telegra.ph/速查手册-Telegram-账号防盗教程--安全使用及售后说明-11-09) |
 | 通用 | 2FA 忘记密码、恢复邮箱失效、没开新设备审批：三条排查路径怎么走 | [中文](docs/zh/2fa-recovery-email-device-approval-troubleshooting.md) | [English](docs/en/2fa-recovery-email-device-approval-troubleshooting.md) | [源](https://facai.lol/blog/2fa-recovery-email-device-approval-troubleshooting) | [速查](https://telegra.ph/2FA-忘记密码恢复邮箱失效没开新设备审批三条排查路径怎么走-速查手册-11-09) |
 | Facebook | Facebook 广告账号备份策略与 Checkpoint 验证恢复全流程（2026 实操版） | [中文](docs/zh/fb-account-backup-checkpoint-recovery-2026.md) | [English](docs/en/fb-account-backup-checkpoint-recovery-2026.md) | [源](https://facai.lol/blog/fb-account-backup-checkpoint-recovery-2026) | [速查](https://telegra.ph/Facebook-广告账号备份策略与-Checkpoint-验证恢复全流程2026-实操版-速查手册-11-09) |
+| 通用 | 2026 年人工智能技术趋势盘点：从演示走向生产 | [中文](docs/zh/ai-technology-trends-2026.md) | [English](docs/en/ai-technology-trends-2026.md) | [源](https://facai.lol/blog/ai-technology-trends-2026) | [速查](https://telegra.ph/2026-年人工智能技术趋势盘点从演示走向生产-速查手册-11-09) |
 
 ## 分类导航 / Browse by platform
 
@@ -37,9 +38,10 @@
 
 - [社媒账号/tiktok Cookie 导入](docs/zh/tiktok.md) · [Cookie Method for Accessing a TikTok Account](docs/en/tiktok.md)
 
-### 通用（1）
+### 通用（2）
 
 - [2FA 忘记密码、恢复邮箱失效、没开新设备审批：三条排查路径怎么走](docs/zh/2fa-recovery-email-device-approval-troubleshooting.md) · [2FA Recovery: Password, Email, or Device Approval?](docs/en/2fa-recovery-email-device-approval-troubleshooting.md)
+- [2026 年人工智能技术趋势盘点：从演示走向生产](docs/zh/ai-technology-trends-2026.md) · [AI Technology Trends 2026: From Demos to Production](docs/en/ai-technology-trends-2026.md)
 
 ## 使用许可 / License
 
