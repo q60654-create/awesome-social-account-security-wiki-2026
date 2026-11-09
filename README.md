@@ -18,8 +18,8 @@
 
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
-| Telegram | 🔐 Telegram 账号防盗教程 & 安全使用及售后说明 | [中文](docs/zh/tg.md) | [English](docs/en/tg.md) | [源](https://facai.lol/blog/tg) | [速查](https://telegra.ph/速查手册-Telegram-账号防盗教程--安全使用及售后说明-11-09) |
 | TikTok | 社媒账号/tiktok Cookie 导入 | [中文](docs/zh/tiktok.md) | [English](docs/en/tiktok.md) | [源](https://facai.lol/blog/tiktok) | [速查](https://telegra.ph/社媒账号tiktok-Cookie-导入-速查手册-11-09) |
+| Telegram | 🔐 Telegram 账号防盗教程 & 安全使用及售后说明 | [中文](docs/zh/tg.md) | [English](docs/en/tg.md) | [源](https://facai.lol/blog/tg) | [速查](https://telegra.ph/速查手册-Telegram-账号防盗教程--安全使用及售后说明-11-09) |
 
 ## 分类导航 / Browse by platform
 
