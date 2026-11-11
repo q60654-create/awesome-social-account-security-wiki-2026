@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **8** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **9** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -18,6 +18,7 @@
 
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
+| 通用 | BM3 三户额度商务管理平台激活与稳定使用实操指南（2026） | [中文](docs/zh/bm3-activation-nolimit-guide-2026.md) | [English](docs/en/bm3-activation-nolimit-guide-2026.md) | [源](https://facai.lol/blog/bm3-activation-nolimit-guide-2026) | [速查](https://telegra.ph/BM3-三户额度商务管理平台激活与稳定使用实操指南2026-速查手册-11-11) |
 | Instagram | Instagram 改密后登录态失效与 Cookie 导入失败排障 | [中文](docs/zh/instagram-password-change-session-troubleshooting.md) | [English](docs/en/instagram-password-change-session-troubleshooting.md) | [源](https://facai.lol/blog/instagram-password-change-session-troubleshooting) | [速查](https://telegra.ph/Instagram-改密后登录态失效与-Cookie-导入失败排障-速查手册-11-10) |
 | 通用 | Business Manager 从零创建到长期稳定运营的排障手册 | [中文](docs/zh/create-maintain-business-manager-low-ban-2026.md) | [English](docs/en/create-maintain-business-manager-low-ban-2026.md) | [源](https://facai.lol/blog/create-maintain-business-manager-low-ban-2026) | [速查](https://telegra.ph/Business-Manager-从零创建到长期稳定运营的排障手册-速查手册-11-10) |
 | 通用 | 大预算广告账户矩阵养护：分层隔离与消费爬坡的实操框架（2026版） | [中文](docs/zh/ad-account-matrix-farming-large-budget-2026.md) | [English](docs/en/ad-account-matrix-farming-large-budget-2026.md) | [源](https://facai.lol/blog/ad-account-matrix-farming-large-budget-2026) | [速查](https://telegra.ph/大预算广告账户矩阵养护分层隔离与消费爬坡的实操框架2026版-速查手册-11-10) |
@@ -45,8 +46,9 @@
 
 - [社媒账号/tiktok Cookie 导入](docs/zh/tiktok.md) · [Cookie Method for Accessing a TikTok Account](docs/en/tiktok.md)
 
-### 通用（4）
+### 通用（5）
 
+- [BM3 三户额度商务管理平台激活与稳定使用实操指南（2026）](docs/zh/bm3-activation-nolimit-guide-2026.md) · [BM3 Activation and Stable Use: A 2026 Operator Guide](docs/en/bm3-activation-nolimit-guide-2026.md)
 - [Business Manager 从零创建到长期稳定运营的排障手册](docs/zh/create-maintain-business-manager-low-ban-2026.md) · [Business Manager Setup and Stability Troubleshooting Guide](docs/en/create-maintain-business-manager-low-ban-2026.md)
 - [大预算广告账户矩阵养护：分层隔离与消费爬坡的实操框架（2026版）](docs/zh/ad-account-matrix-farming-large-budget-2026.md) · [Ad Account Matrix Care: Layering, Isolation, Ramp-Up](docs/en/ad-account-matrix-farming-large-budget-2026.md)
 - [2FA 忘记密码、恢复邮箱失效、没开新设备审批：三条排查路径怎么走](docs/zh/2fa-recovery-email-device-approval-troubleshooting.md) · [2FA Recovery: Password, Email, or Device Approval?](docs/en/2fa-recovery-email-device-approval-troubleshooting.md)
