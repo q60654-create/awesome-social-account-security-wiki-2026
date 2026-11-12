@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **11** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **12** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -19,6 +19,7 @@
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
 | 通用 | BM10 账户分组与并行养号：10 个广告账户的组合化管理排障手册 | [中文](docs/zh/bm10-activation-guide-2026.md) | [English](docs/en/bm10-activation-guide-2026.md) | [源](https://facai.lol/blog/bm10-activation-guide-2026) | [速查](https://telegra.ph/BM10-账户分组与并行养号10-个广告账户的组合化管理排障手册-速查手册-11-12) |
+| 通用 | BM2500 大额度账户激活与扩量：节奏、权限与审计的排障手册 | [中文](docs/zh/bm2500-activation-scaling-2026.md) | [English](docs/en/bm2500-activation-scaling-2026.md) | [源](https://facai.lol/blog/bm2500-activation-scaling-2026) | [速查](https://telegra.ph/BM2500-大额度账户激活与扩量节奏权限与审计的排障手册-速查手册-11-12) |
 | 通用 | BM3 三户额度商务管理平台激活与稳定使用实操指南（2026） | [中文](docs/zh/bm3-activation-nolimit-guide-2026.md) | [English](docs/en/bm3-activation-nolimit-guide-2026.md) | [源](https://facai.lol/blog/bm3-activation-nolimit-guide-2026) | [速查](https://telegra.ph/BM3-三户额度商务管理平台激活与稳定使用实操指南2026-速查手册-11-11) |
 | 通用 | BM5 激活实战指南：环境准备、分步激活与预算爬坡 | [中文](docs/zh/bm5-activation-guide-2026.md) | [English](docs/en/bm5-activation-guide-2026.md) | [源](https://facai.lol/blog/bm5-activation-guide-2026) | [速查](https://telegra.ph/BM5-激活实战指南环境准备分步激活与预算爬坡-速查手册-11-11) |
 | Instagram | Instagram 改密后登录态失效与 Cookie 导入失败排障 | [中文](docs/zh/instagram-password-change-session-troubleshooting.md) | [English](docs/en/instagram-password-change-session-troubleshooting.md) | [源](https://facai.lol/blog/instagram-password-change-session-troubleshooting) | [速查](https://telegra.ph/Instagram-改密后登录态失效与-Cookie-导入失败排障-速查手册-11-10) |
@@ -48,9 +49,10 @@
 
 - [社媒账号/tiktok Cookie 导入](docs/zh/tiktok.md) · [Cookie Method for Accessing a TikTok Account](docs/en/tiktok.md)
 
-### 通用（7）
+### 通用（8）
 
 - [BM10 账户分组与并行养号：10 个广告账户的组合化管理排障手册](docs/zh/bm10-activation-guide-2026.md) · [BM10 Account Grouping and Parallel Warm-Up Troubleshooting](docs/en/bm10-activation-guide-2026.md)
+- [BM2500 大额度账户激活与扩量：节奏、权限与审计的排障手册](docs/zh/bm2500-activation-scaling-2026.md) · [Large-Limit Ad Account Activation: Pace, Permissions, Audit](docs/en/bm2500-activation-scaling-2026.md)
 - [BM3 三户额度商务管理平台激活与稳定使用实操指南（2026）](docs/zh/bm3-activation-nolimit-guide-2026.md) · [BM3 Activation and Stable Use: A 2026 Operator Guide](docs/en/bm3-activation-nolimit-guide-2026.md)
 - [BM5 激活实战指南：环境准备、分步激活与预算爬坡](docs/zh/bm5-activation-guide-2026.md) · [BM5 Activation Guide: Environment, Steps, Budget Scaling](docs/en/bm5-activation-guide-2026.md)
 - [Business Manager 从零创建到长期稳定运营的排障手册](docs/zh/create-maintain-business-manager-low-ban-2026.md) · [Business Manager Setup and Stability Troubleshooting Guide](docs/en/create-maintain-business-manager-low-ban-2026.md)
