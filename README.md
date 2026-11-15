@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **12** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **13** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -18,6 +18,7 @@
 
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
+| 通用 | BM Nolimit 机制详解：动态额度、信任信号与恢复路径（2026 版） | [中文](docs/zh/bm-nolimit-quota-mechanics-2026.md) | [English](docs/en/bm-nolimit-quota-mechanics-2026.md) | [源](https://facai.lol/blog/bm-nolimit-quota-mechanics-2026) | [速查](https://telegra.ph/BM-Nolimit-机制详解动态额度信任信号与恢复路径2026-版-速查手册-11-15) |
 | 通用 | BM10 账户分组与并行养号：10 个广告账户的组合化管理排障手册 | [中文](docs/zh/bm10-activation-guide-2026.md) | [English](docs/en/bm10-activation-guide-2026.md) | [源](https://facai.lol/blog/bm10-activation-guide-2026) | [速查](https://telegra.ph/BM10-账户分组与并行养号10-个广告账户的组合化管理排障手册-速查手册-11-12) |
 | 通用 | BM2500 大额度账户激活与扩量：节奏、权限与审计的排障手册 | [中文](docs/zh/bm2500-activation-scaling-2026.md) | [English](docs/en/bm2500-activation-scaling-2026.md) | [源](https://facai.lol/blog/bm2500-activation-scaling-2026) | [速查](https://telegra.ph/BM2500-大额度账户激活与扩量节奏权限与审计的排障手册-速查手册-11-12) |
 | 通用 | BM3 三户额度商务管理平台激活与稳定使用实操指南（2026） | [中文](docs/zh/bm3-activation-nolimit-guide-2026.md) | [English](docs/en/bm3-activation-nolimit-guide-2026.md) | [源](https://facai.lol/blog/bm3-activation-nolimit-guide-2026) | [速查](https://telegra.ph/BM3-三户额度商务管理平台激活与稳定使用实操指南2026-速查手册-11-11) |
@@ -49,8 +50,9 @@
 
 - [社媒账号/tiktok Cookie 导入](docs/zh/tiktok.md) · [Cookie Method for Accessing a TikTok Account](docs/en/tiktok.md)
 
-### 通用（8）
+### 通用（9）
 
+- [BM Nolimit 机制详解：动态额度、信任信号与恢复路径（2026 版）](docs/zh/bm-nolimit-quota-mechanics-2026.md) · [BM Nolimit Explained: Dynamic Limits and Recovery](docs/en/bm-nolimit-quota-mechanics-2026.md)
 - [BM10 账户分组与并行养号：10 个广告账户的组合化管理排障手册](docs/zh/bm10-activation-guide-2026.md) · [BM10 Account Grouping and Parallel Warm-Up Troubleshooting](docs/en/bm10-activation-guide-2026.md)
 - [BM2500 大额度账户激活与扩量：节奏、权限与审计的排障手册](docs/zh/bm2500-activation-scaling-2026.md) · [Large-Limit Ad Account Activation: Pace, Permissions, Audit](docs/en/bm2500-activation-scaling-2026.md)
 - [BM3 三户额度商务管理平台激活与稳定使用实操指南（2026）](docs/zh/bm3-activation-nolimit-guide-2026.md) · [BM3 Activation and Stable Use: A 2026 Operator Guide](docs/en/bm3-activation-nolimit-guide-2026.md)
