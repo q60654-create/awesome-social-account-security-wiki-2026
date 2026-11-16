@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **15** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **16** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -19,6 +19,7 @@
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
 | 通用 | 计费阈值机制拆解与预算节奏规划实战 | [中文](docs/zh/facebook-75-dollar-threshold-budget-2026.md) | [English](docs/en/facebook-75-dollar-threshold-budget-2026.md) | [源](https://facai.lol/blog/facebook-75-dollar-threshold-budget-2026) | [速查](https://telegra.ph/计费阈值机制拆解与预算节奏规划实战-速查手册-11-16) |
+| 通用 | 广告账户位置与地区验证：一致性检查与过验流程 | [中文](docs/zh/ad-account-location-verification-2026.md) | [English](docs/en/ad-account-location-verification-2026.md) | [源](https://facai.lol/blog/ad-account-location-verification-2026) | [速查](https://telegra.ph/广告账户位置与地区验证一致性检查与过验流程-速查手册-11-16) |
 | 通用 | BM Nolimit 机制详解：动态额度、信任信号与恢复路径（2026 版） | [中文](docs/zh/bm-nolimit-quota-mechanics-2026.md) | [English](docs/en/bm-nolimit-quota-mechanics-2026.md) | [源](https://facai.lol/blog/bm-nolimit-quota-mechanics-2026) | [速查](https://telegra.ph/BM-Nolimit-机制详解动态额度信任信号与恢复路径2026-版-速查手册-11-15) |
 | 通用 | Auto Pay 自动扣费设置与支付稳定性实战指南 | [中文](docs/zh/auto-pay-setup-payment-stability-2026.md) | [English](docs/en/auto-pay-setup-payment-stability-2026.md) | [源](https://facai.lol/blog/auto-pay-setup-payment-stability-2026) | [速查](https://telegra.ph/Auto-Pay-自动扣费设置与支付稳定性实战指南-速查手册-11-15) |
 | 通用 | BM10 账户分组与并行养号：10 个广告账户的组合化管理排障手册 | [中文](docs/zh/bm10-activation-guide-2026.md) | [English](docs/en/bm10-activation-guide-2026.md) | [源](https://facai.lol/blog/bm10-activation-guide-2026) | [速查](https://telegra.ph/BM10-账户分组与并行养号10-个广告账户的组合化管理排障手册-速查手册-11-12) |
@@ -52,9 +53,10 @@
 
 - [社媒账号/tiktok Cookie 导入](docs/zh/tiktok.md) · [Cookie Method for Accessing a TikTok Account](docs/en/tiktok.md)
 
-### 通用（11）
+### 通用（12）
 
 - [计费阈值机制拆解与预算节奏规划实战](docs/zh/facebook-75-dollar-threshold-budget-2026.md) · [Billing Threshold Mechanics and Budget Pacing](docs/en/facebook-75-dollar-threshold-budget-2026.md)
+- [广告账户位置与地区验证：一致性检查与过验流程](docs/zh/ad-account-location-verification-2026.md) · [Ad Account Location Verification: Consistency Checks](docs/en/ad-account-location-verification-2026.md)
 - [BM Nolimit 机制详解：动态额度、信任信号与恢复路径（2026 版）](docs/zh/bm-nolimit-quota-mechanics-2026.md) · [BM Nolimit Explained: Dynamic Limits and Recovery](docs/en/bm-nolimit-quota-mechanics-2026.md)
 - [Auto Pay 自动扣费设置与支付稳定性实战指南](docs/zh/auto-pay-setup-payment-stability-2026.md) · [Auto Pay Setup and Payment Stability Guide](docs/en/auto-pay-setup-payment-stability-2026.md)
 - [BM10 账户分组与并行养号：10 个广告账户的组合化管理排障手册](docs/zh/bm10-activation-guide-2026.md) · [BM10 Account Grouping and Parallel Warm-Up Troubleshooting](docs/en/bm10-activation-guide-2026.md)
