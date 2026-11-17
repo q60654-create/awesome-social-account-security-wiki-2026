@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **17** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **18** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -19,6 +19,7 @@
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
 | 通用 | Anti-Hold 绑卡策略：降低资金冻结概率的完整节奏 | [中文](docs/zh/anti-hold-card-binding-no-freeze-2026.md) | [English](docs/en/anti-hold-card-binding-no-freeze-2026.md) | [源](https://facai.lol/blog/anti-hold-card-binding-no-freeze-2026) | [速查](https://telegra.ph/Anti-Hold-绑卡策略降低资金冻结概率的完整节奏-速查手册-11-17) |
+| Facebook | Facebook 身份验证触发后怎么过：材料对齐、环境一致与二次提交排障手册 | [中文](docs/zh/facebook-identity-verification-fast-approval-2026.md) | [English](docs/en/facebook-identity-verification-fast-approval-2026.md) | [源](https://facai.lol/blog/facebook-identity-verification-fast-approval-2026) | [速查](https://telegra.ph/Facebook-身份验证触发后怎么过材料对齐环境一致与二次提交排障手册-速查手册-11-17) |
 | 通用 | 计费阈值机制拆解与预算节奏规划实战 | [中文](docs/zh/facebook-75-dollar-threshold-budget-2026.md) | [English](docs/en/facebook-75-dollar-threshold-budget-2026.md) | [源](https://facai.lol/blog/facebook-75-dollar-threshold-budget-2026) | [速查](https://telegra.ph/计费阈值机制拆解与预算节奏规划实战-速查手册-11-16) |
 | 通用 | 广告账户位置与地区验证：一致性检查与过验流程 | [中文](docs/zh/ad-account-location-verification-2026.md) | [English](docs/en/ad-account-location-verification-2026.md) | [源](https://facai.lol/blog/ad-account-location-verification-2026) | [速查](https://telegra.ph/广告账户位置与地区验证一致性检查与过验流程-速查手册-11-16) |
 | 通用 | BM Nolimit 机制详解：动态额度、信任信号与恢复路径（2026 版） | [中文](docs/zh/bm-nolimit-quota-mechanics-2026.md) | [English](docs/en/bm-nolimit-quota-mechanics-2026.md) | [源](https://facai.lol/blog/bm-nolimit-quota-mechanics-2026) | [速查](https://telegra.ph/BM-Nolimit-机制详解动态额度信任信号与恢复路径2026-版-速查手册-11-15) |
@@ -38,8 +39,9 @@
 
 ## 分类导航 / Browse by platform
 
-### Facebook（1）
+### Facebook（2）
 
+- [Facebook 身份验证触发后怎么过：材料对齐、环境一致与二次提交排障手册](docs/zh/facebook-identity-verification-fast-approval-2026.md) · [Facebook Identity Verification (XMDT) Fast Pass Tips](docs/en/facebook-identity-verification-fast-approval-2026.md)
 - [Facebook 广告账号备份策略与 Checkpoint 验证恢复全流程（2026 实操版）](docs/zh/fb-account-backup-checkpoint-recovery-2026.md) · [Facebook Ad Account Backup & Checkpoint Recovery](docs/en/fb-account-backup-checkpoint-recovery-2026.md)
 
 ### Instagram（1）
