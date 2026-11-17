@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **16** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **17** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -18,6 +18,7 @@
 
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
+| 通用 | Anti-Hold 绑卡策略：降低资金冻结概率的完整节奏 | [中文](docs/zh/anti-hold-card-binding-no-freeze-2026.md) | [English](docs/en/anti-hold-card-binding-no-freeze-2026.md) | [源](https://facai.lol/blog/anti-hold-card-binding-no-freeze-2026) | [速查](https://telegra.ph/Anti-Hold-绑卡策略降低资金冻结概率的完整节奏-速查手册-11-17) |
 | 通用 | 计费阈值机制拆解与预算节奏规划实战 | [中文](docs/zh/facebook-75-dollar-threshold-budget-2026.md) | [English](docs/en/facebook-75-dollar-threshold-budget-2026.md) | [源](https://facai.lol/blog/facebook-75-dollar-threshold-budget-2026) | [速查](https://telegra.ph/计费阈值机制拆解与预算节奏规划实战-速查手册-11-16) |
 | 通用 | 广告账户位置与地区验证：一致性检查与过验流程 | [中文](docs/zh/ad-account-location-verification-2026.md) | [English](docs/en/ad-account-location-verification-2026.md) | [源](https://facai.lol/blog/ad-account-location-verification-2026) | [速查](https://telegra.ph/广告账户位置与地区验证一致性检查与过验流程-速查手册-11-16) |
 | 通用 | BM Nolimit 机制详解：动态额度、信任信号与恢复路径（2026 版） | [中文](docs/zh/bm-nolimit-quota-mechanics-2026.md) | [English](docs/en/bm-nolimit-quota-mechanics-2026.md) | [源](https://facai.lol/blog/bm-nolimit-quota-mechanics-2026) | [速查](https://telegra.ph/BM-Nolimit-机制详解动态额度信任信号与恢复路径2026-版-速查手册-11-15) |
@@ -53,8 +54,9 @@
 
 - [社媒账号/tiktok Cookie 导入](docs/zh/tiktok.md) · [Cookie Method for Accessing a TikTok Account](docs/en/tiktok.md)
 
-### 通用（12）
+### 通用（13）
 
+- [Anti-Hold 绑卡策略：降低资金冻结概率的完整节奏](docs/zh/anti-hold-card-binding-no-freeze-2026.md) · [Anti-Hold Card Binding: A Complete Rhythm to Cut Freezes](docs/en/anti-hold-card-binding-no-freeze-2026.md)
 - [计费阈值机制拆解与预算节奏规划实战](docs/zh/facebook-75-dollar-threshold-budget-2026.md) · [Billing Threshold Mechanics and Budget Pacing](docs/en/facebook-75-dollar-threshold-budget-2026.md)
 - [广告账户位置与地区验证：一致性检查与过验流程](docs/zh/ad-account-location-verification-2026.md) · [Ad Account Location Verification: Consistency Checks](docs/en/ad-account-location-verification-2026.md)
 - [BM Nolimit 机制详解：动态额度、信任信号与恢复路径（2026 版）](docs/zh/bm-nolimit-quota-mechanics-2026.md) · [BM Nolimit Explained: Dynamic Limits and Recovery](docs/en/bm-nolimit-quota-mechanics-2026.md)
