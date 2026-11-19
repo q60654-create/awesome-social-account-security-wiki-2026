@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **22** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **23** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -20,6 +20,7 @@
 |---|---|---|---|---|---|
 | Telegram | Telegram账号注册总失败？环境验证码与封号原因一次讲清 | [中文](docs/zh/telegram-signup-failure-troubleshooting.md) | [English](docs/en/telegram-signup-failure-troubleshooting.md) | [源](https://facai.lol/blog/telegram-signup-failure-troubleshooting) | [速查](https://telegra.ph/Telegram账号注册总失败环境验证码与封号原因一次讲清-速查手册-11-19) |
 | 通用 | Pixel 与 Conversions API 配置实操：域名验证、去重与匹配质量（2026） | [中文](docs/zh/pixel-capi-domain-verification-setup-2026.md) | [English](docs/en/pixel-capi-domain-verification-setup-2026.md) | [源](https://facai.lol/blog/pixel-capi-domain-verification-setup-2026) | [速查](https://telegra.ph/Pixel-与-Conversions-API-配置实操域名验证去重与匹配质量2026-速查手册-11-19) |
+| 通用 | 广告素材合规自审清单：高频拒审原因与二次提交流程（2026） | [中文](docs/zh/ad-creative-policy-self-review-checklist-2026.md) | [English](docs/en/ad-creative-policy-self-review-checklist-2026.md) | [源](https://facai.lol/blog/ad-creative-policy-self-review-checklist-2026) | [速查](https://telegra.ph/广告素材合规自审清单高频拒审原因与二次提交流程2026-速查手册-11-19) |
 | Facebook | Facebook 主页权重养号与商业认证实操：从创建到隔离的完整排障路径 | [中文](docs/zh/fb-page-weight-farming-business-verification-2026.md) | [English](docs/en/fb-page-weight-farming-business-verification-2026.md) | [源](https://facai.lol/blog/fb-page-weight-farming-business-verification-2026) | [速查](https://telegra.ph/Facebook-主页权重养号与商业认证实操从创建到隔离的完整排障路径-速查手册-11-18) |
 | 通用 | 广告账户受限申诉与恢复全流程：类型判别、材料准备与恢复期降敏实操 | [中文](docs/zh/restricted-ad-account-appeal-recovery-2026.md) | [English](docs/en/restricted-ad-account-appeal-recovery-2026.md) | [源](https://facai.lol/blog/restricted-ad-account-appeal-recovery-2026) | [速查](https://telegra.ph/广告账户受限申诉与恢复全流程类型判别材料准备与恢复期降敏实操-速查手册-11-18) |
 | 通用 | Anti-Hold 绑卡策略：降低资金冻结概率的完整节奏 | [中文](docs/zh/anti-hold-card-binding-no-freeze-2026.md) | [English](docs/en/anti-hold-card-binding-no-freeze-2026.md) | [源](https://facai.lol/blog/anti-hold-card-binding-no-freeze-2026) | [速查](https://telegra.ph/Anti-Hold-绑卡策略降低资金冻结概率的完整节奏-速查手册-11-17) |
@@ -62,9 +63,10 @@
 
 - [社媒账号/tiktok Cookie 导入](docs/zh/tiktok.md) · [Cookie Method for Accessing a TikTok Account](docs/en/tiktok.md)
 
-### 通用（15）
+### 通用（16）
 
 - [Pixel 与 Conversions API 配置实操：域名验证、去重与匹配质量（2026）](docs/zh/pixel-capi-domain-verification-setup-2026.md) · [Pixel + CAPI Setup: Domain, Dedup, Match Quality](docs/en/pixel-capi-domain-verification-setup-2026.md)
+- [广告素材合规自审清单：高频拒审原因与二次提交流程（2026）](docs/zh/ad-creative-policy-self-review-checklist-2026.md) · [Ad Creative Compliance Self-Review Checklist 2026](docs/en/ad-creative-policy-self-review-checklist-2026.md)
 - [广告账户受限申诉与恢复全流程：类型判别、材料准备与恢复期降敏实操](docs/zh/restricted-ad-account-appeal-recovery-2026.md) · [Ad Account Restriction Appeal and Recovery Workflow](docs/en/restricted-ad-account-appeal-recovery-2026.md)
 - [Anti-Hold 绑卡策略：降低资金冻结概率的完整节奏](docs/zh/anti-hold-card-binding-no-freeze-2026.md) · [Anti-Hold Card Binding: A Complete Rhythm to Cut Freezes](docs/en/anti-hold-card-binding-no-freeze-2026.md)
 - [计费阈值机制拆解与预算节奏规划实战](docs/zh/facebook-75-dollar-threshold-budget-2026.md) · [Billing Threshold Mechanics and Budget Pacing](docs/en/facebook-75-dollar-threshold-budget-2026.md)
