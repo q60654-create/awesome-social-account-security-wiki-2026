@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **23** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **24** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -21,6 +21,7 @@
 | Telegram | Telegram账号注册总失败？环境验证码与封号原因一次讲清 | [中文](docs/zh/telegram-signup-failure-troubleshooting.md) | [English](docs/en/telegram-signup-failure-troubleshooting.md) | [源](https://facai.lol/blog/telegram-signup-failure-troubleshooting) | [速查](https://telegra.ph/Telegram账号注册总失败环境验证码与封号原因一次讲清-速查手册-11-19) |
 | 通用 | Pixel 与 Conversions API 配置实操：域名验证、去重与匹配质量（2026） | [中文](docs/zh/pixel-capi-domain-verification-setup-2026.md) | [English](docs/en/pixel-capi-domain-verification-setup-2026.md) | [源](https://facai.lol/blog/pixel-capi-domain-verification-setup-2026) | [速查](https://telegra.ph/Pixel-与-Conversions-API-配置实操域名验证去重与匹配质量2026-速查手册-11-19) |
 | 通用 | 广告素材合规自审清单：高频拒审原因与二次提交流程（2026） | [中文](docs/zh/ad-creative-policy-self-review-checklist-2026.md) | [English](docs/en/ad-creative-policy-self-review-checklist-2026.md) | [源](https://facai.lol/blog/ad-creative-policy-self-review-checklist-2026) | [速查](https://telegra.ph/广告素材合规自审清单高频拒审原因与二次提交流程2026-速查手册-11-19) |
+| Instagram | Instagram账号怎么选：独享共享与老号新号的封号风险差 | [中文](docs/zh/instagram-account-selection-first-login-check.md) | [English](docs/en/instagram-account-selection-first-login-check.md) | [源](https://facai.lol/blog/instagram-account-selection-first-login-check) | [速查](https://telegra.ph/Instagram账号怎么选独享共享与老号新号的封号风险差-速查手册-11-19) |
 | Facebook | Facebook 主页权重养号与商业认证实操：从创建到隔离的完整排障路径 | [中文](docs/zh/fb-page-weight-farming-business-verification-2026.md) | [English](docs/en/fb-page-weight-farming-business-verification-2026.md) | [源](https://facai.lol/blog/fb-page-weight-farming-business-verification-2026) | [速查](https://telegra.ph/Facebook-主页权重养号与商业认证实操从创建到隔离的完整排障路径-速查手册-11-18) |
 | 通用 | 广告账户受限申诉与恢复全流程：类型判别、材料准备与恢复期降敏实操 | [中文](docs/zh/restricted-ad-account-appeal-recovery-2026.md) | [English](docs/en/restricted-ad-account-appeal-recovery-2026.md) | [源](https://facai.lol/blog/restricted-ad-account-appeal-recovery-2026) | [速查](https://telegra.ph/广告账户受限申诉与恢复全流程类型判别材料准备与恢复期降敏实操-速查手册-11-18) |
 | 通用 | Anti-Hold 绑卡策略：降低资金冻结概率的完整节奏 | [中文](docs/zh/anti-hold-card-binding-no-freeze-2026.md) | [English](docs/en/anti-hold-card-binding-no-freeze-2026.md) | [源](https://facai.lol/blog/anti-hold-card-binding-no-freeze-2026) | [速查](https://telegra.ph/Anti-Hold-绑卡策略降低资金冻结概率的完整节奏-速查手册-11-17) |
@@ -50,8 +51,9 @@
 - [Facebook 身份验证触发后怎么过：材料对齐、环境一致与二次提交排障手册](docs/zh/facebook-identity-verification-fast-approval-2026.md) · [Facebook Identity Verification (XMDT) Fast Pass Tips](docs/en/facebook-identity-verification-fast-approval-2026.md)
 - [Facebook 广告账号备份策略与 Checkpoint 验证恢复全流程（2026 实操版）](docs/zh/fb-account-backup-checkpoint-recovery-2026.md) · [Facebook Ad Account Backup & Checkpoint Recovery](docs/en/fb-account-backup-checkpoint-recovery-2026.md)
 
-### Instagram（1）
+### Instagram（2）
 
+- [Instagram账号怎么选：独享共享与老号新号的封号风险差](docs/zh/instagram-account-selection-first-login-check.md) · [Instagram Account Choice: Solo vs Shared, Old vs New](docs/en/instagram-account-selection-first-login-check.md)
 - [Instagram 改密后登录态失效与 Cookie 导入失败排障](docs/zh/instagram-password-change-session-troubleshooting.md) · [Instagram Password Change: Fix Session and Cookie Errors](docs/en/instagram-password-change-session-troubleshooting.md)
 
 ### Telegram（2）
