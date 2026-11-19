@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **20** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **21** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -18,6 +18,7 @@
 
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
+| Telegram | Telegram账号注册总失败？环境验证码与封号原因一次讲清 | [中文](docs/zh/telegram-signup-failure-troubleshooting.md) | [English](docs/en/telegram-signup-failure-troubleshooting.md) | [源](https://facai.lol/blog/telegram-signup-failure-troubleshooting) | [速查](https://telegra.ph/Telegram账号注册总失败环境验证码与封号原因一次讲清-速查手册-11-19) |
 | Facebook | Facebook 主页权重养号与商业认证实操：从创建到隔离的完整排障路径 | [中文](docs/zh/fb-page-weight-farming-business-verification-2026.md) | [English](docs/en/fb-page-weight-farming-business-verification-2026.md) | [源](https://facai.lol/blog/fb-page-weight-farming-business-verification-2026) | [速查](https://telegra.ph/Facebook-主页权重养号与商业认证实操从创建到隔离的完整排障路径-速查手册-11-18) |
 | 通用 | 广告账户受限申诉与恢复全流程：类型判别、材料准备与恢复期降敏实操 | [中文](docs/zh/restricted-ad-account-appeal-recovery-2026.md) | [English](docs/en/restricted-ad-account-appeal-recovery-2026.md) | [源](https://facai.lol/blog/restricted-ad-account-appeal-recovery-2026) | [速查](https://telegra.ph/广告账户受限申诉与恢复全流程类型判别材料准备与恢复期降敏实操-速查手册-11-18) |
 | 通用 | Anti-Hold 绑卡策略：降低资金冻结概率的完整节奏 | [中文](docs/zh/anti-hold-card-binding-no-freeze-2026.md) | [English](docs/en/anti-hold-card-binding-no-freeze-2026.md) | [源](https://facai.lol/blog/anti-hold-card-binding-no-freeze-2026) | [速查](https://telegra.ph/Anti-Hold-绑卡策略降低资金冻结概率的完整节奏-速查手册-11-17) |
@@ -51,8 +52,9 @@
 
 - [Instagram 改密后登录态失效与 Cookie 导入失败排障](docs/zh/instagram-password-change-session-troubleshooting.md) · [Instagram Password Change: Fix Session and Cookie Errors](docs/en/instagram-password-change-session-troubleshooting.md)
 
-### Telegram（1）
+### Telegram（2）
 
+- [Telegram账号注册总失败？环境验证码与封号原因一次讲清](docs/zh/telegram-signup-failure-troubleshooting.md) · [Telegram Registration Fails: Environment, Codes, Bans](docs/en/telegram-signup-failure-troubleshooting.md)
 - [🔐 Telegram 账号防盗教程 & 安全使用及售后说明](docs/zh/tg.md) · [Telegram Account Delivery Inspection Explained](docs/en/tg.md)
 
 ### TikTok（1）
