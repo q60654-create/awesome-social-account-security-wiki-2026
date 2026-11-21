@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **26** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **27** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -18,6 +18,7 @@
 
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
+| 通用 | 代理 IP 选型实战：住宅、机房与移动代理的 2026 选型指南 | [中文](docs/zh/proxy-ip-selection-residential-datacenter-mobile-2026.md) | [English](docs/en/proxy-ip-selection-residential-datacenter-mobile-2026.md) | [源](https://facai.lol/blog/proxy-ip-selection-residential-datacenter-mobile-2026) | [速查](https://telegra.ph/代理-IP-选型实战住宅机房与移动代理的-2026-选型指南-速查手册-11-21) |
 | 通用 | 新广告账户冷启动预算模型：2026 实操指南 | [中文](docs/zh/new-ad-account-cold-start-budget-model-2026.md) | [English](docs/en/new-ad-account-cold-start-budget-model-2026.md) | [源](https://facai.lol/blog/new-ad-account-cold-start-budget-model-2026) | [速查](https://telegra.ph/新广告账户冷启动预算模型2026-实操指南-速查手册-11-20) |
 | 通用 | 多主页与 BM 挂接架构设计：2026 资产树规划指南 | [中文](docs/zh/page-matrix-bm-architecture-2026.md) | [English](docs/en/page-matrix-bm-architecture-2026.md) | [源](https://facai.lol/blog/page-matrix-bm-architecture-2026) | [速查](https://telegra.ph/多主页与-BM-挂接架构设计2026-资产树规划指南-速查手册-11-20) |
 | Telegram | Telegram账号注册总失败？环境验证码与封号原因一次讲清 | [中文](docs/zh/telegram-signup-failure-troubleshooting.md) | [English](docs/en/telegram-signup-failure-troubleshooting.md) | [源](https://facai.lol/blog/telegram-signup-failure-troubleshooting) | [速查](https://telegra.ph/Telegram账号注册总失败环境验证码与封号原因一次讲清-速查手册-11-19) |
@@ -67,8 +68,9 @@
 
 - [社媒账号/tiktok Cookie 导入](docs/zh/tiktok.md) · [Cookie Method for Accessing a TikTok Account](docs/en/tiktok.md)
 
-### 通用（18）
+### 通用（19）
 
+- [代理 IP 选型实战：住宅、机房与移动代理的 2026 选型指南](docs/zh/proxy-ip-selection-residential-datacenter-mobile-2026.md) · [Proxy IP Selection: Residential, Datacenter, Mobile](docs/en/proxy-ip-selection-residential-datacenter-mobile-2026.md)
 - [新广告账户冷启动预算模型：2026 实操指南](docs/zh/new-ad-account-cold-start-budget-model-2026.md) · [Cold-Start Budget Model for New Ad Accounts: 2026 Guide](docs/en/new-ad-account-cold-start-budget-model-2026.md)
 - [多主页与 BM 挂接架构设计：2026 资产树规划指南](docs/zh/page-matrix-bm-architecture-2026.md) · [Multi-Page BM Architecture: 2026 Asset Tree Guide](docs/en/page-matrix-bm-architecture-2026.md)
 - [Pixel 与 Conversions API 配置实操：域名验证、去重与匹配质量（2026）](docs/zh/pixel-capi-domain-verification-setup-2026.md) · [Pixel + CAPI Setup: Domain, Dedup, Match Quality](docs/en/pixel-capi-domain-verification-setup-2026.md)
