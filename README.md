@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **29** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **30** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -18,6 +18,7 @@
 
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
+| TG | Telegram 注册收不到验证码的六个排查点与处置顺序 | [中文](docs/zh/telegram-verification-code-troubleshooting.md) | [English](docs/en/telegram-verification-code-troubleshooting.md) | [源](https://facai.lol/blog/telegram-verification-code-troubleshooting) | [速查](https://telegra.ph/Telegram-注册收不到验证码的六个排查点与处置顺序-速查手册-11-22) |
 | 通用 | 代理 IP 选型实战：住宅、机房与移动代理的 2026 选型指南 | [中文](docs/zh/proxy-ip-selection-residential-datacenter-mobile-2026.md) | [English](docs/en/proxy-ip-selection-residential-datacenter-mobile-2026.md) | [源](https://facai.lol/blog/proxy-ip-selection-residential-datacenter-mobile-2026) | [速查](https://telegra.ph/代理-IP-选型实战住宅机房与移动代理的-2026-选型指南-速查手册-11-21) |
 | 通用 | 2FA 与登录安全体系搭建：账号安全实操指南 | [中文](docs/zh/2fa-login-security-session-management-2026.md) | [English](docs/en/2fa-login-security-session-management-2026.md) | [源](https://facai.lol/blog/2fa-login-security-session-management-2026) | [速查](https://telegra.ph/2FA-与登录安全体系搭建账号安全实操指南-速查手册-11-21) |
 | TG | Telegram tdata 导入后一直转圈的三层排查路径 | [中文](docs/zh/telegram-tdata-import-spinning-fix.md) | [English](docs/en/telegram-tdata-import-spinning-fix.md) | [源](https://facai.lol/blog/telegram-tdata-import-spinning-fix) | [速查](https://telegra.ph/Telegram-tdata-导入后一直转圈的三层排查路径-速查手册-11-21) |
@@ -61,8 +62,9 @@
 - [Instagram账号怎么选：独享共享与老号新号的封号风险差](docs/zh/instagram-account-selection-first-login-check.md) · [Instagram Account Choice: Solo vs Shared, Old vs New](docs/en/instagram-account-selection-first-login-check.md)
 - [Instagram 改密后登录态失效与 Cookie 导入失败排障](docs/zh/instagram-password-change-session-troubleshooting.md) · [Instagram Password Change: Fix Session and Cookie Errors](docs/en/instagram-password-change-session-troubleshooting.md)
 
-### TG（1）
+### TG（2）
 
+- [Telegram 注册收不到验证码的六个排查点与处置顺序](docs/zh/telegram-verification-code-troubleshooting.md) · [Telegram SMS Not Arriving: Six Checks Before You Retry](docs/en/telegram-verification-code-troubleshooting.md)
 - [Telegram tdata 导入后一直转圈的三层排查路径](docs/zh/telegram-tdata-import-spinning-fix.md) · [tdata Not Loading: Path, Version, Permission Fix](docs/en/telegram-tdata-import-spinning-fix.md)
 
 ### Telegram（2）
