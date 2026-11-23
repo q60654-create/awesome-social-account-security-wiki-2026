@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **33** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **34** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -19,6 +19,7 @@
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
 | TG | Telegram 机房 IP 的 Checkpoint 排查 | [中文](docs/zh/telegram-datacenter-ip-checkpoint-checklist.md) | [English](docs/en/telegram-datacenter-ip-checkpoint-checklist.md) | [源](https://facai.lol/blog/telegram-datacenter-ip-checkpoint-checklist) | [速查](https://telegra.ph/Telegram-机房-IP-的-Checkpoint-排查-速查手册-11-23) |
+| 通用 | 广告账户健康度监控怎么做：双看板指标设计与预警线设定 | [中文](docs/zh/ad-account-health-metrics-dashboard-2026.md) | [English](docs/en/ad-account-health-metrics-dashboard-2026.md) | [源](https://facai.lol/blog/ad-account-health-metrics-dashboard-2026) | [速查](https://telegra.ph/广告账户健康度监控怎么做双看板指标设计与预警线设定-速查手册-11-23) |
 | TG | Telegram 注册收不到验证码的六个排查点与处置顺序 | [中文](docs/zh/telegram-verification-code-troubleshooting.md) | [English](docs/en/telegram-verification-code-troubleshooting.md) | [源](https://facai.lol/blog/telegram-verification-code-troubleshooting) | [速查](https://telegra.ph/Telegram-注册收不到验证码的六个排查点与处置顺序-速查手册-11-22) |
 | 通用 | 广告账单与发票管理：多币种结算、对账流程与异常扣费排查 | [中文](docs/zh/ad-billing-invoice-multi-currency-reconciliation-2026.md) | [English](docs/en/ad-billing-invoice-multi-currency-reconciliation-2026.md) | [源](https://facai.lol/blog/ad-billing-invoice-multi-currency-reconciliation-2026) | [速查](https://telegra.ph/广告账单与发票管理多币种结算对账流程与异常扣费排查-速查手册-11-22) |
 | 通用 | 团队权限与资产管理 SOP：角色分离、最小权限与资产回收 | [中文](docs/zh/team-permission-asset-sop-2026.md) | [English](docs/en/team-permission-asset-sop-2026.md) | [源](https://facai.lol/blog/team-permission-asset-sop-2026) | [速查](https://telegra.ph/团队权限与资产管理-SOP角色分离最小权限与资产回收-速查手册-11-22) |
@@ -80,8 +81,9 @@
 
 - [社媒账号/tiktok Cookie 导入](docs/zh/tiktok.md) · [Cookie Method for Accessing a TikTok Account](docs/en/tiktok.md)
 
-### 通用（22）
+### 通用（23）
 
+- [广告账户健康度监控怎么做：双看板指标设计与预警线设定](docs/zh/ad-account-health-metrics-dashboard-2026.md) · [Ad Account Health Monitoring: Dual Dashboards & Alert Lines](docs/en/ad-account-health-metrics-dashboard-2026.md)
 - [广告账单与发票管理：多币种结算、对账流程与异常扣费排查](docs/zh/ad-billing-invoice-multi-currency-reconciliation-2026.md) · [Multi-Currency Ad Billing: Reconcile and Dispute Charges](docs/en/ad-billing-invoice-multi-currency-reconciliation-2026.md)
 - [团队权限与资产管理 SOP：角色分离、最小权限与资产回收](docs/zh/team-permission-asset-sop-2026.md) · [Team Access & Asset Management SOP](docs/en/team-permission-asset-sop-2026.md)
 - [代理 IP 选型实战：住宅、机房与移动代理的 2026 选型指南](docs/zh/proxy-ip-selection-residential-datacenter-mobile-2026.md) · [Proxy IP Selection: Residential, Datacenter, Mobile](docs/en/proxy-ip-selection-residential-datacenter-mobile-2026.md)
