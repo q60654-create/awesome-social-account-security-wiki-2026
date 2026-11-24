@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **36** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **37** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -18,6 +18,7 @@
 
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
+| TG | TG号交付当天就死怎么分清交付问题与使用问题 | [中文](docs/zh/tg-account-first-login-24h-dispute.md) | [English](docs/en/tg-account-first-login-24h-dispute.md) | [源](https://facai.lol/blog/tg-account-first-login-24h-dispute) | [速查](https://telegra.ph/TG号交付当天就死怎么分清交付问题与使用问题-速查手册-11-24) |
 | TG | Telegram 机房 IP 的 Checkpoint 排查 | [中文](docs/zh/telegram-datacenter-ip-checkpoint-checklist.md) | [English](docs/en/telegram-datacenter-ip-checkpoint-checklist.md) | [源](https://facai.lol/blog/telegram-datacenter-ip-checkpoint-checklist) | [速查](https://telegra.ph/Telegram-机房-IP-的-Checkpoint-排查-速查手册-11-23) |
 | 通用 | 广告账户健康度监控怎么做：双看板指标设计与预警线设定 | [中文](docs/zh/ad-account-health-metrics-dashboard-2026.md) | [English](docs/en/ad-account-health-metrics-dashboard-2026.md) | [源](https://facai.lol/blog/ad-account-health-metrics-dashboard-2026) | [速查](https://telegra.ph/广告账户健康度监控怎么做双看板指标设计与预警线设定-速查手册-11-23) |
 | 通用 | 自动化规则与节假日值守：熔断止损与告警体系搭建 | [中文](docs/zh/automated-rules-offhours-monitoring-2026.md) | [English](docs/en/automated-rules-offhours-monitoring-2026.md) | [源](https://facai.lol/blog/automated-rules-offhours-monitoring-2026) | [速查](https://telegra.ph/自动化规则与节假日值守熔断止损与告警体系搭建-速查手册-11-23) |
@@ -68,8 +69,9 @@
 - [Instagram账号怎么选：独享共享与老号新号的封号风险差](docs/zh/instagram-account-selection-first-login-check.md) · [Instagram Account Choice: Solo vs Shared, Old vs New](docs/en/instagram-account-selection-first-login-check.md)
 - [Instagram 改密后登录态失效与 Cookie 导入失败排障](docs/zh/instagram-password-change-session-troubleshooting.md) · [Instagram Password Change: Fix Session and Cookie Errors](docs/en/instagram-password-change-session-troubleshooting.md)
 
-### TG（4）
+### TG（5）
 
+- [TG号交付当天就死怎么分清交付问题与使用问题](docs/zh/tg-account-first-login-24h-dispute.md) · [Telegram Account Dead on Delivery Day: Whose Fault](docs/en/tg-account-first-login-24h-dispute.md)
 - [Telegram 机房 IP 的 Checkpoint 排查](docs/zh/telegram-datacenter-ip-checkpoint-checklist.md) · [Datacenter IP and Telegram Checkpoint: Self-Check](docs/en/telegram-datacenter-ip-checkpoint-checklist.md)
 - [一台设备挂多个Telegram号：隔离切换与封号边界](docs/zh/telegram-multi-account-isolation-switching.md) · [Multiple Telegram Accounts on One Device: Isolation Limits](docs/en/telegram-multi-account-isolation-switching.md)
 - [Telegram 注册收不到验证码的六个排查点与处置顺序](docs/zh/telegram-verification-code-troubleshooting.md) · [Telegram SMS Not Arriving: Six Checks Before You Retry](docs/en/telegram-verification-code-troubleshooting.md)
