@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **37** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **38** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -19,6 +19,7 @@
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
 | TG | TG号交付当天就死怎么分清交付问题与使用问题 | [中文](docs/zh/tg-account-first-login-24h-dispute.md) | [English](docs/en/tg-account-first-login-24h-dispute.md) | [源](https://facai.lol/blog/tg-account-first-login-24h-dispute) | [速查](https://telegra.ph/TG号交付当天就死怎么分清交付问题与使用问题-速查手册-11-24) |
+| 通用 | AI 自动化重塑数字营销工作流：账号安全与排障实操指南 | [中文](docs/zh/ai-automation-reshaping-marketing-workflow.md) | [English](docs/en/ai-automation-reshaping-marketing-workflow.md) | [源](https://facai.lol/blog/ai-automation-reshaping-marketing-workflow) | [速查](https://telegra.ph/AI-自动化重塑数字营销工作流账号安全与排障实操指南-速查手册-11-24) |
 | TG | Telegram 机房 IP 的 Checkpoint 排查 | [中文](docs/zh/telegram-datacenter-ip-checkpoint-checklist.md) | [English](docs/en/telegram-datacenter-ip-checkpoint-checklist.md) | [源](https://facai.lol/blog/telegram-datacenter-ip-checkpoint-checklist) | [速查](https://telegra.ph/Telegram-机房-IP-的-Checkpoint-排查-速查手册-11-23) |
 | 通用 | 广告账户健康度监控怎么做：双看板指标设计与预警线设定 | [中文](docs/zh/ad-account-health-metrics-dashboard-2026.md) | [English](docs/en/ad-account-health-metrics-dashboard-2026.md) | [源](https://facai.lol/blog/ad-account-health-metrics-dashboard-2026) | [速查](https://telegra.ph/广告账户健康度监控怎么做双看板指标设计与预警线设定-速查手册-11-23) |
 | 通用 | 自动化规则与节假日值守：熔断止损与告警体系搭建 | [中文](docs/zh/automated-rules-offhours-monitoring-2026.md) | [English](docs/en/automated-rules-offhours-monitoring-2026.md) | [源](https://facai.lol/blog/automated-rules-offhours-monitoring-2026) | [速查](https://telegra.ph/自动化规则与节假日值守熔断止损与告警体系搭建-速查手册-11-23) |
@@ -86,8 +87,9 @@
 
 - [社媒账号/tiktok Cookie 导入](docs/zh/tiktok.md) · [Cookie Method for Accessing a TikTok Account](docs/en/tiktok.md)
 
-### 通用（24）
+### 通用（25）
 
+- [AI 自动化重塑数字营销工作流：账号安全与排障实操指南](docs/zh/ai-automation-reshaping-marketing-workflow.md) · [Account Security for AI Marketing Automation](docs/en/ai-automation-reshaping-marketing-workflow.md)
 - [广告账户健康度监控怎么做：双看板指标设计与预警线设定](docs/zh/ad-account-health-metrics-dashboard-2026.md) · [Ad Account Health Monitoring: Dual Dashboards & Alert Lines](docs/en/ad-account-health-metrics-dashboard-2026.md)
 - [自动化规则与节假日值守：熔断止损与告警体系搭建](docs/zh/automated-rules-offhours-monitoring-2026.md) · [Ad Automation Rules & Holiday On-Call Circuit Breaker](docs/en/automated-rules-offhours-monitoring-2026.md)
 - [广告账单与发票管理：多币种结算、对账流程与异常扣费排查](docs/zh/ad-billing-invoice-multi-currency-reconciliation-2026.md) · [Multi-Currency Ad Billing: Reconcile and Dispute Charges](docs/en/ad-billing-invoice-multi-currency-reconciliation-2026.md)
