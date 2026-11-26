@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **41** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **42** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -18,6 +18,7 @@
 
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
+| Instagram | Instagram Cookie 登录排障：导入与设备校验 | [中文](docs/zh/instagram-cookie-login-troubleshooting.md) | [English](docs/en/instagram-cookie-login-troubleshooting.md) | [源](https://facai.lol/blog/instagram-cookie-login-troubleshooting) | [速查](https://telegra.ph/Instagram-Cookie-登录排障导入与设备校验-速查手册-11-26) |
 | 通用 | MMO 游戏数字营销排障手册：账号、素材与社区运营 2026 | [中文](docs/zh/mmo-digital-marketing-strategy-2026.md) | [English](docs/en/mmo-digital-marketing-strategy-2026.md) | [源](https://facai.lol/blog/mmo-digital-marketing-strategy-2026) | [速查](https://telegra.ph/MMO-游戏数字营销排障手册账号素材与社区运营-2026-速查手册-11-25) |
 | 通用 | 指纹浏览器多账号管理实战：三绑定原则、环境维护与团队审计 | [中文](docs/zh/fingerprint-browser-multi-account-management.md) | [English](docs/en/fingerprint-browser-multi-account-management.md) | [源](https://facai.lol/blog/fingerprint-browser-multi-account-management) | [速查](https://telegra.ph/指纹浏览器多账号管理实战三绑定原则环境维护与团队审计-速查手册-11-25) |
 | TG | TG号交付当天就死怎么分清交付问题与使用问题 | [中文](docs/zh/tg-account-first-login-24h-dispute.md) | [English](docs/en/tg-account-first-login-24h-dispute.md) | [源](https://facai.lol/blog/tg-account-first-login-24h-dispute) | [速查](https://telegra.ph/TG号交付当天就死怎么分清交付问题与使用问题-速查手册-11-24) |
@@ -68,8 +69,9 @@
 - [Facebook 身份验证触发后怎么过：材料对齐、环境一致与二次提交排障手册](docs/zh/facebook-identity-verification-fast-approval-2026.md) · [Facebook Identity Verification (XMDT) Fast Pass Tips](docs/en/facebook-identity-verification-fast-approval-2026.md)
 - [Facebook 广告账号备份策略与 Checkpoint 验证恢复全流程（2026 实操版）](docs/zh/fb-account-backup-checkpoint-recovery-2026.md) · [Facebook Ad Account Backup & Checkpoint Recovery](docs/en/fb-account-backup-checkpoint-recovery-2026.md)
 
-### Instagram（2）
+### Instagram（3）
 
+- [Instagram Cookie 登录排障：导入与设备校验](docs/zh/instagram-cookie-login-troubleshooting.md) · [Instagram Cookie Login: Fix Import and Session Errors](docs/en/instagram-cookie-login-troubleshooting.md)
 - [Instagram账号怎么选：独享共享与老号新号的封号风险差](docs/zh/instagram-account-selection-first-login-check.md) · [Instagram Account Choice: Solo vs Shared, Old vs New](docs/en/instagram-account-selection-first-login-check.md)
 - [Instagram 改密后登录态失效与 Cookie 导入失败排障](docs/zh/instagram-password-change-session-troubleshooting.md) · [Instagram Password Change: Fix Session and Cookie Errors](docs/en/instagram-password-change-session-troubleshooting.md)
 
