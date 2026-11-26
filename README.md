@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **43** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **44** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -20,6 +20,7 @@
 |---|---|---|---|---|---|
 | Instagram | Instagram Cookie 登录排障：导入与设备校验 | [中文](docs/zh/instagram-cookie-login-troubleshooting.md) | [English](docs/en/instagram-cookie-login-troubleshooting.md) | [源](https://facai.lol/blog/instagram-cookie-login-troubleshooting) | [速查](https://telegra.ph/Instagram-Cookie-登录排障导入与设备校验-速查手册-11-26) |
 | 通用 | AI 智能体接管广告投放的边界：账号健康与资金终审怎么留手 | [中文](docs/zh/ai-agents-in-ad-operations.md) | [English](docs/en/ai-agents-in-ad-operations.md) | [源](https://facai.lol/blog/ai-agents-in-ad-operations) | [速查](https://telegra.ph/AI-智能体接管广告投放的边界账号健康与资金终审怎么留手-速查手册-11-26) |
+| 通用 | 多账号矩阵运营的基础设施设计：代理池、环境隔离与容灾备份怎么搭 | [中文](docs/zh/multi-account-infrastructure-design.md) | [English](docs/en/multi-account-infrastructure-design.md) | [源](https://facai.lol/blog/multi-account-infrastructure-design) | [速查](https://telegra.ph/多账号矩阵运营的基础设施设计代理池环境隔离与容灾备份怎么搭-速查手册-11-26) |
 | 通用 | MMO 游戏数字营销排障手册：账号、素材与社区运营 2026 | [中文](docs/zh/mmo-digital-marketing-strategy-2026.md) | [English](docs/en/mmo-digital-marketing-strategy-2026.md) | [源](https://facai.lol/blog/mmo-digital-marketing-strategy-2026) | [速查](https://telegra.ph/MMO-游戏数字营销排障手册账号素材与社区运营-2026-速查手册-11-25) |
 | 通用 | 指纹浏览器多账号管理实战：三绑定原则、环境维护与团队审计 | [中文](docs/zh/fingerprint-browser-multi-account-management.md) | [English](docs/en/fingerprint-browser-multi-account-management.md) | [源](https://facai.lol/blog/fingerprint-browser-multi-account-management) | [速查](https://telegra.ph/指纹浏览器多账号管理实战三绑定原则环境维护与团队审计-速查手册-11-25) |
 | TG | TG号交付当天就死怎么分清交付问题与使用问题 | [中文](docs/zh/tg-account-first-login-24h-dispute.md) | [English](docs/en/tg-account-first-login-24h-dispute.md) | [源](https://facai.lol/blog/tg-account-first-login-24h-dispute) | [速查](https://telegra.ph/TG号交付当天就死怎么分清交付问题与使用问题-速查手册-11-24) |
@@ -93,9 +94,10 @@
 
 - [社媒账号/tiktok Cookie 导入](docs/zh/tiktok.md) · [Cookie Method for Accessing a TikTok Account](docs/en/tiktok.md)
 
-### 通用（29）
+### 通用（30）
 
 - [AI 智能体接管广告投放的边界：账号健康与资金终审怎么留手](docs/zh/ai-agents-in-ad-operations.md) · [AI Agents in Ad Ops: Where Humans Must Stay](docs/en/ai-agents-in-ad-operations.md)
+- [多账号矩阵运营的基础设施设计：代理池、环境隔离与容灾备份怎么搭](docs/zh/multi-account-infrastructure-design.md) · [Matrix Ops Infrastructure: Proxies, Isolation, Recovery](docs/en/multi-account-infrastructure-design.md)
 - [MMO 游戏数字营销排障手册：账号、素材与社区运营 2026](docs/zh/mmo-digital-marketing-strategy-2026.md) · [MMO Marketing Troubleshooting: Accounts, Creative, Community](docs/en/mmo-digital-marketing-strategy-2026.md)
 - [指纹浏览器多账号管理实战：三绑定原则、环境维护与团队审计](docs/zh/fingerprint-browser-multi-account-management.md) · [Antidetect Browser Multi-Account Management: Binding Rules](docs/en/fingerprint-browser-multi-account-management.md)
 - [AI 自动化重塑数字营销工作流：账号安全与排障实操指南](docs/zh/ai-automation-reshaping-marketing-workflow.md) · [Account Security for AI Marketing Automation](docs/en/ai-automation-reshaping-marketing-workflow.md)
