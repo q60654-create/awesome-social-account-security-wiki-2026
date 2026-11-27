@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **46** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **47** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -19,6 +19,7 @@
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
 | Telegram | Telegram账号怎么选：独享共享与老号新号封号风险差在哪 | [中文](docs/zh/telegram-account-selection-first-login-check.md) | [English](docs/en/telegram-account-selection-first-login-check.md) | [源](https://facai.lol/blog/telegram-account-selection-first-login-check) | [速查](https://telegra.ph/Telegram账号怎么选独享共享与老号新号封号风险差在哪-速查手册-11-27) |
+| 通用 | 2026 广告平台风控与合规趋势：行为建模、关系网络与账号资产配置 | [中文](docs/zh/ad-platform-risk-control-trends-2026.md) | [English](docs/en/ad-platform-risk-control-trends-2026.md) | [源](https://facai.lol/blog/ad-platform-risk-control-trends-2026) | [速查](https://telegra.ph/2026-广告平台风控与合规趋势行为建模关系网络与账号资产配置-速查手册-11-27) |
 | Instagram | Instagram Cookie 登录排障：导入与设备校验 | [中文](docs/zh/instagram-cookie-login-troubleshooting.md) | [English](docs/en/instagram-cookie-login-troubleshooting.md) | [源](https://facai.lol/blog/instagram-cookie-login-troubleshooting) | [速查](https://telegra.ph/Instagram-Cookie-登录排障导入与设备校验-速查手册-11-26) |
 | 通用 | AI 智能体接管广告投放的边界：账号健康与资金终审怎么留手 | [中文](docs/zh/ai-agents-in-ad-operations.md) | [English](docs/en/ai-agents-in-ad-operations.md) | [源](https://facai.lol/blog/ai-agents-in-ad-operations) | [速查](https://telegra.ph/AI-智能体接管广告投放的边界账号健康与资金终审怎么留手-速查手册-11-26) |
 | 通用 | 多账号矩阵运营的基础设施设计：代理池、环境隔离与容灾备份怎么搭 | [中文](docs/zh/multi-account-infrastructure-design.md) | [English](docs/en/multi-account-infrastructure-design.md) | [源](https://facai.lol/blog/multi-account-infrastructure-design) | [速查](https://telegra.ph/多账号矩阵运营的基础设施设计代理池环境隔离与容灾备份怎么搭-速查手册-11-26) |
@@ -98,8 +99,9 @@
 
 - [社媒账号/tiktok Cookie 导入](docs/zh/tiktok.md) · [Cookie Method for Accessing a TikTok Account](docs/en/tiktok.md)
 
-### 通用（30）
+### 通用（31）
 
+- [2026 广告平台风控与合规趋势：行为建模、关系网络与账号资产配置](docs/zh/ad-platform-risk-control-trends-2026.md) · [2026 Ad Risk Control: Behavior Modeling and Account Assets](docs/en/ad-platform-risk-control-trends-2026.md)
 - [AI 智能体接管广告投放的边界：账号健康与资金终审怎么留手](docs/zh/ai-agents-in-ad-operations.md) · [AI Agents in Ad Ops: Where Humans Must Stay](docs/en/ai-agents-in-ad-operations.md)
 - [多账号矩阵运营的基础设施设计：代理池、环境隔离与容灾备份怎么搭](docs/zh/multi-account-infrastructure-design.md) · [Matrix Ops Infrastructure: Proxies, Isolation, Recovery](docs/en/multi-account-infrastructure-design.md)
 - [MMO 游戏数字营销排障手册：账号、素材与社区运营 2026](docs/zh/mmo-digital-marketing-strategy-2026.md) · [MMO Marketing Troubleshooting: Accounts, Creative, Community](docs/en/mmo-digital-marketing-strategy-2026.md)
