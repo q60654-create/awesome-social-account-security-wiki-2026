@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **45** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **46** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -18,6 +18,7 @@
 
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
+| Telegram | Telegram账号怎么选：独享共享与老号新号封号风险差在哪 | [中文](docs/zh/telegram-account-selection-first-login-check.md) | [English](docs/en/telegram-account-selection-first-login-check.md) | [源](https://facai.lol/blog/telegram-account-selection-first-login-check) | [速查](https://telegra.ph/Telegram账号怎么选独享共享与老号新号封号风险差在哪-速查手册-11-27) |
 | Instagram | Instagram Cookie 登录排障：导入与设备校验 | [中文](docs/zh/instagram-cookie-login-troubleshooting.md) | [English](docs/en/instagram-cookie-login-troubleshooting.md) | [源](https://facai.lol/blog/instagram-cookie-login-troubleshooting) | [速查](https://telegra.ph/Instagram-Cookie-登录排障导入与设备校验-速查手册-11-26) |
 | 通用 | AI 智能体接管广告投放的边界：账号健康与资金终审怎么留手 | [中文](docs/zh/ai-agents-in-ad-operations.md) | [English](docs/en/ai-agents-in-ad-operations.md) | [源](https://facai.lol/blog/ai-agents-in-ad-operations) | [速查](https://telegra.ph/AI-智能体接管广告投放的边界账号健康与资金终审怎么留手-速查手册-11-26) |
 | 通用 | 多账号矩阵运营的基础设施设计：代理池、环境隔离与容灾备份怎么搭 | [中文](docs/zh/multi-account-infrastructure-design.md) | [English](docs/en/multi-account-infrastructure-design.md) | [源](https://facai.lol/blog/multi-account-infrastructure-design) | [速查](https://telegra.ph/多账号矩阵运营的基础设施设计代理池环境隔离与容灾备份怎么搭-速查手册-11-26) |
@@ -86,8 +87,9 @@
 - [Telegram 注册收不到验证码的六个排查点与处置顺序](docs/zh/telegram-verification-code-troubleshooting.md) · [Telegram SMS Not Arriving: Six Checks Before You Retry](docs/en/telegram-verification-code-troubleshooting.md)
 - [Telegram tdata 导入后一直转圈的三层排查路径](docs/zh/telegram-tdata-import-spinning-fix.md) · [tdata Not Loading: Path, Version, Permission Fix](docs/en/telegram-tdata-import-spinning-fix.md)
 
-### Telegram（3）
+### Telegram（4）
 
+- [Telegram账号怎么选：独享共享与老号新号封号风险差在哪](docs/zh/telegram-account-selection-first-login-check.md) · [Telegram Account Selection: Dedicated vs Shared, Aged vs New](docs/en/telegram-account-selection-first-login-check.md)
 - [Telegram与Gmail登录报错排障：验证码与IMAP校验思路](docs/zh/telegram-gmail-login-error-troubleshooting.md) · [Telegram and Gmail Login Errors: Layered Fix Guide](docs/en/telegram-gmail-login-error-troubleshooting.md)
 - [Telegram账号注册总失败？环境验证码与封号原因一次讲清](docs/zh/telegram-signup-failure-troubleshooting.md) · [Telegram Registration Fails: Environment, Codes, Bans](docs/en/telegram-signup-failure-troubleshooting.md)
 - [🔐 Telegram 账号防盗教程 & 安全使用及售后说明](docs/zh/tg.md) · [Telegram Account Delivery Inspection Explained](docs/en/tg.md)
