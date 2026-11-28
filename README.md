@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **49** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **50** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -18,6 +18,7 @@
 
 | 平台 | 主题 | 中文 | English | 主站原文 | 速查卡 |
 |---|---|---|---|---|---|
+| Twitter/X | Twitter账号怎么选：独享共享与新旧号封号风险对比 | [中文](docs/zh/twitter-account-selection-solo-vs-shared.md) | [English](docs/en/twitter-account-selection-solo-vs-shared.md) | [源](https://facai.lol/blog/twitter-account-selection-solo-vs-shared) | [速查](https://telegra.ph/Twitter账号怎么选独享共享与新旧号封号风险对比-速查手册-11-28) |
 | Telegram | Telegram账号怎么选：独享共享与老号新号封号风险差在哪 | [中文](docs/zh/telegram-account-selection-first-login-check.md) | [English](docs/en/telegram-account-selection-first-login-check.md) | [源](https://facai.lol/blog/telegram-account-selection-first-login-check) | [速查](https://telegra.ph/Telegram账号怎么选独享共享与老号新号封号风险差在哪-速查手册-11-27) |
 | 通用 | 2026 广告平台风控与合规趋势：行为建模、关系网络与账号资产配置 | [中文](docs/zh/ad-platform-risk-control-trends-2026.md) | [English](docs/en/ad-platform-risk-control-trends-2026.md) | [源](https://facai.lol/blog/ad-platform-risk-control-trends-2026) | [速查](https://telegra.ph/2026-广告平台风控与合规趋势行为建模关系网络与账号资产配置-速查手册-11-27) |
 | 通用 | 浏览器自动化与反自动化检测的攻防趋势 2026：从单点特征到环境自洽 | [中文](docs/zh/browser-automation-detection-arms-race-2026.md) | [English](docs/en/browser-automation-detection-arms-race-2026.md) | [源](https://facai.lol/blog/browser-automation-detection-arms-race-2026) | [速查](https://telegra.ph/浏览器自动化与反自动化检测的攻防趋势-2026从单点特征到环境自洽-速查手册-11-27) |
@@ -101,6 +102,10 @@
 
 - [TikTok账号购买前必读：挑选验号与售后边界](docs/zh/tiktok-account-purchase-verify-refund.md) · [Buying a TikTok Account: Vetting, Testing, Recovery](docs/en/tiktok-account-purchase-verify-refund.md)
 - [社媒账号/tiktok Cookie 导入](docs/zh/tiktok.md) · [Cookie Method for Accessing a TikTok Account](docs/en/tiktok.md)
+
+### Twitter/X（1）
+
+- [Twitter账号怎么选：独享共享与新旧号封号风险对比](docs/zh/twitter-account-selection-solo-vs-shared.md) · [Twitter Account Selection: Dedicated vs Shared, Old vs New](docs/en/twitter-account-selection-solo-vs-shared.md)
 
 ### 通用（32）
 
