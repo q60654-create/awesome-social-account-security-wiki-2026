@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **52** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **53** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -21,6 +21,7 @@
 | Twitter/X | Twitter账号怎么选：独享共享与新旧号封号风险对比 | [中文](docs/zh/twitter-account-selection-solo-vs-shared.md) | [English](docs/en/twitter-account-selection-solo-vs-shared.md) | [源](https://facai.lol/blog/twitter-account-selection-solo-vs-shared) | [速查](https://telegra.ph/Twitter账号怎么选独享共享与新旧号封号风险对比-速查手册-11-28) |
 | 通用 | 住宅代理网络怎么选：出口IP与指纹环境的三层一致排障指南 | [中文](docs/zh/residential-proxy-network-explained-2026.md) | [English](docs/en/residential-proxy-network-explained-2026.md) | [源](https://facai.lol/blog/residential-proxy-network-explained-2026) | [速查](https://telegra.ph/住宅代理网络怎么选出口IP与指纹环境的三层一致排障指南-速查手册-11-28) |
 | 通用 | MMO 社群私域增长排障手册：账号、群组与内容节奏怎么落地 | [中文](docs/zh/mmo-community-private-domain-growth-2026.md) | [English](docs/en/mmo-community-private-domain-growth-2026.md) | [源](https://facai.lol/blog/mmo-community-private-domain-growth-2026) | [速查](https://telegra.ph/MMO-社群私域增长排障手册账号群组与内容节奏怎么落地-速查手册-11-28) |
+| Instagram | Instagram账号被停用怎么申诉先定位原因再决定申诉还是换号 | [中文](docs/zh/instagram-account-disabled-appeal-order.md) | [English](docs/en/instagram-account-disabled-appeal-order.md) | [源](https://facai.lol/blog/instagram-account-disabled-appeal-order) | [速查](https://telegra.ph/Instagram账号被停用怎么申诉先定位原因再决定申诉还是换号-速查手册-11-28) |
 | Telegram | Telegram账号怎么选：独享共享与老号新号封号风险差在哪 | [中文](docs/zh/telegram-account-selection-first-login-check.md) | [English](docs/en/telegram-account-selection-first-login-check.md) | [源](https://facai.lol/blog/telegram-account-selection-first-login-check) | [速查](https://telegra.ph/Telegram账号怎么选独享共享与老号新号封号风险差在哪-速查手册-11-27) |
 | 通用 | 2026 广告平台风控与合规趋势：行为建模、关系网络与账号资产配置 | [中文](docs/zh/ad-platform-risk-control-trends-2026.md) | [English](docs/en/ad-platform-risk-control-trends-2026.md) | [源](https://facai.lol/blog/ad-platform-risk-control-trends-2026) | [速查](https://telegra.ph/2026-广告平台风控与合规趋势行为建模关系网络与账号资产配置-速查手册-11-27) |
 | 通用 | 浏览器自动化与反自动化检测的攻防趋势 2026：从单点特征到环境自洽 | [中文](docs/zh/browser-automation-detection-arms-race-2026.md) | [English](docs/en/browser-automation-detection-arms-race-2026.md) | [源](https://facai.lol/blog/browser-automation-detection-arms-race-2026) | [速查](https://telegra.ph/浏览器自动化与反自动化检测的攻防趋势-2026从单点特征到环境自洽-速查手册-11-27) |
@@ -79,8 +80,9 @@
 - [Facebook 身份验证触发后怎么过：材料对齐、环境一致与二次提交排障手册](docs/zh/facebook-identity-verification-fast-approval-2026.md) · [Facebook Identity Verification (XMDT) Fast Pass Tips](docs/en/facebook-identity-verification-fast-approval-2026.md)
 - [Facebook 广告账号备份策略与 Checkpoint 验证恢复全流程（2026 实操版）](docs/zh/fb-account-backup-checkpoint-recovery-2026.md) · [Facebook Ad Account Backup & Checkpoint Recovery](docs/en/fb-account-backup-checkpoint-recovery-2026.md)
 
-### Instagram（3）
+### Instagram（4）
 
+- [Instagram账号被停用怎么申诉先定位原因再决定申诉还是换号](docs/zh/instagram-account-disabled-appeal-order.md) · [Instagram Disabled: Diagnose Before You Appeal](docs/en/instagram-account-disabled-appeal-order.md)
 - [Instagram Cookie 登录排障：导入与设备校验](docs/zh/instagram-cookie-login-troubleshooting.md) · [Instagram Cookie Login: Fix Import and Session Errors](docs/en/instagram-cookie-login-troubleshooting.md)
 - [Instagram账号怎么选：独享共享与老号新号的封号风险差](docs/zh/instagram-account-selection-first-login-check.md) · [Instagram Account Choice: Solo vs Shared, Old vs New](docs/en/instagram-account-selection-first-login-check.md)
 - [Instagram 改密后登录态失效与 Cookie 导入失败排障](docs/zh/instagram-password-change-session-troubleshooting.md) · [Instagram Password Change: Fix Session and Cookie Errors](docs/en/instagram-password-change-session-troubleshooting.md)
