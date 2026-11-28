@@ -4,7 +4,7 @@
 >
 > A de-commercialised, bilingual troubleshooting wiki for overseas social-media account security: 2FA, cookies, tdata sessions, risk-control error codes, residential IP and warranty boundaries.
 
-维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **51** 篇双语排障文档
+维护 / Maintained by [Facai Research](https://facai.lol) · 内容以 CC BY 4.0 发布 · 已收录 **52** 篇双语排障文档
 
 ## 这个仓库解决什么问题 / What this repo is for
 
@@ -20,6 +20,7 @@
 |---|---|---|---|---|---|
 | Twitter/X | Twitter账号怎么选：独享共享与新旧号封号风险对比 | [中文](docs/zh/twitter-account-selection-solo-vs-shared.md) | [English](docs/en/twitter-account-selection-solo-vs-shared.md) | [源](https://facai.lol/blog/twitter-account-selection-solo-vs-shared) | [速查](https://telegra.ph/Twitter账号怎么选独享共享与新旧号封号风险对比-速查手册-11-28) |
 | 通用 | 住宅代理网络怎么选：出口IP与指纹环境的三层一致排障指南 | [中文](docs/zh/residential-proxy-network-explained-2026.md) | [English](docs/en/residential-proxy-network-explained-2026.md) | [源](https://facai.lol/blog/residential-proxy-network-explained-2026) | [速查](https://telegra.ph/住宅代理网络怎么选出口IP与指纹环境的三层一致排障指南-速查手册-11-28) |
+| 通用 | MMO 社群私域增长排障手册：账号、群组与内容节奏怎么落地 | [中文](docs/zh/mmo-community-private-domain-growth-2026.md) | [English](docs/en/mmo-community-private-domain-growth-2026.md) | [源](https://facai.lol/blog/mmo-community-private-domain-growth-2026) | [速查](https://telegra.ph/MMO-社群私域增长排障手册账号群组与内容节奏怎么落地-速查手册-11-28) |
 | Telegram | Telegram账号怎么选：独享共享与老号新号封号风险差在哪 | [中文](docs/zh/telegram-account-selection-first-login-check.md) | [English](docs/en/telegram-account-selection-first-login-check.md) | [源](https://facai.lol/blog/telegram-account-selection-first-login-check) | [速查](https://telegra.ph/Telegram账号怎么选独享共享与老号新号封号风险差在哪-速查手册-11-27) |
 | 通用 | 2026 广告平台风控与合规趋势：行为建模、关系网络与账号资产配置 | [中文](docs/zh/ad-platform-risk-control-trends-2026.md) | [English](docs/en/ad-platform-risk-control-trends-2026.md) | [源](https://facai.lol/blog/ad-platform-risk-control-trends-2026) | [速查](https://telegra.ph/2026-广告平台风控与合规趋势行为建模关系网络与账号资产配置-速查手册-11-27) |
 | 通用 | 浏览器自动化与反自动化检测的攻防趋势 2026：从单点特征到环境自洽 | [中文](docs/zh/browser-automation-detection-arms-race-2026.md) | [English](docs/en/browser-automation-detection-arms-race-2026.md) | [源](https://facai.lol/blog/browser-automation-detection-arms-race-2026) | [速查](https://telegra.ph/浏览器自动化与反自动化检测的攻防趋势-2026从单点特征到环境自洽-速查手册-11-27) |
@@ -108,9 +109,10 @@
 
 - [Twitter账号怎么选：独享共享与新旧号封号风险对比](docs/zh/twitter-account-selection-solo-vs-shared.md) · [Twitter Account Selection: Dedicated vs Shared, Old vs New](docs/en/twitter-account-selection-solo-vs-shared.md)
 
-### 通用（33）
+### 通用（34）
 
 - [住宅代理网络怎么选：出口IP与指纹环境的三层一致排障指南](docs/zh/residential-proxy-network-explained-2026.md) · [Residential Proxy Selection: Three-Layer IP Alignment](docs/en/residential-proxy-network-explained-2026.md)
+- [MMO 社群私域增长排障手册：账号、群组与内容节奏怎么落地](docs/zh/mmo-community-private-domain-growth-2026.md) · [MMO Community & Private Domain Growth 2026](docs/en/mmo-community-private-domain-growth-2026.md)
 - [2026 广告平台风控与合规趋势：行为建模、关系网络与账号资产配置](docs/zh/ad-platform-risk-control-trends-2026.md) · [2026 Ad Risk Control: Behavior Modeling and Account Assets](docs/en/ad-platform-risk-control-trends-2026.md)
 - [浏览器自动化与反自动化检测的攻防趋势 2026：从单点特征到环境自洽](docs/zh/browser-automation-detection-arms-race-2026.md) · [Browser Automation vs Anti-Bot Detection 2026](docs/en/browser-automation-detection-arms-race-2026.md)
 - [AI 智能体接管广告投放的边界：账号健康与资金终审怎么留手](docs/zh/ai-agents-in-ad-operations.md) · [AI Agents in Ad Ops: Where Humans Must Stay](docs/en/ai-agents-in-ad-operations.md)
